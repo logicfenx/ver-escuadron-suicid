@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/ver-escuadron-suicid",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a ver-escuadron-suicid",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/ver-escuadron-suicid.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://www.stockbitcoin.info/es/ver-escuadron-suicida-online-latino/"
+    },
+    "homepage": "https://www.stockbitcoin.info/es/ver-escuadron-suicida-online-latino/"
+}
